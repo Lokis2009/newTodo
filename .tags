@@ -1,0 +1,85 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+__BASENAME__	.eslintrc.json	/^    "__BASENAME__": true,$/;"	f
+__COVERAGE__	.eslintrc.json	/^    "__COVERAGE__": false,$/;"	f
+__DEBUG__	.eslintrc.json	/^    "__DEBUG__": false,$/;"	f
+__DEV__	.eslintrc.json	/^    "__DEV__": false,$/;"	f
+__PROD__	.eslintrc.json	/^    "__PROD__": false,$/;"	f
+___INITIAL_STATE__	.eslintrc.json	/^    "___INITIAL_STATE__": true$/;"	f
+allowParens	.eslintrc.json	/^        "allowParens": true$/;"	f
+antd	package.json	/^    "antd": "^2.13.7",$/;"	f
+arrays	.eslintrc.json	/^        "arrays": "always-multiline",$/;"	f
+axios	package.json	/^    "axios": "^0.17.0",$/;"	f
+babel-eslint	package.json	/^    "babel-eslint": "^6.0.0-beta.6",$/;"	f
+browser	.eslintrc.json	/^    "browser": true$/;"	f
+build	package.json	/^    "build": "npm run build-css && react-scripts build",$/;"	f
+build-css	package.json	/^    "build-css": "node-sass-chokidar src\/ -o src\/",$/;"	f
+chai-friendly/no-unused-expressions	.eslintrc.json	/^    "chai-friendly\/no-unused-expressions": 2,$/;"	f
+comma-dangle	.eslintrc.json	/^    "comma-dangle": [$/;"	f
+const.loggedIn	src/containers/layout/index.js	/^const defaultProps = {$/;"	p
+const.loggedIn	src/containers/login/Component.js	/^const defaultProps = {$/;"	p
+dependencies	package.json	/^  "dependencies": {$/;"	f
+devDependencies	package.json	/^  "devDependencies": {$/;"	f
+eject	package.json	/^    "eject": "react-scripts eject"$/;"	f
+env	.eslintrc.json	/^  "env": {$/;"	f
+eslint	package.json	/^    "eslint": "^3.17.1",$/;"	f
+eslint-config-airbnb	package.json	/^    "eslint-config-airbnb": "^10.0.1",$/;"	f
+eslint-config-standard	package.json	/^    "eslint-config-standard": "^5.1.0",$/;"	f
+eslint-config-standard-react	package.json	/^    "eslint-config-standard-react": "^3.0.0",$/;"	f
+eslint-config-standart	package.json	/^    "eslint-config-standart": "^0.1.0",$/;"	f
+eslint-plugin-babel	package.json	/^    "eslint-plugin-babel": "^4.1.2",$/;"	f
+eslint-plugin-chai-friendly	package.json	/^    "eslint-plugin-chai-friendly": "^0.3.6",$/;"	f
+eslint-plugin-import	package.json	/^    "eslint-plugin-import": "^1.14.0",$/;"	f
+eslint-plugin-jsx-a11y	package.json	/^    "eslint-plugin-jsx-a11y": "^2.2.0",$/;"	f
+eslint-plugin-promise	package.json	/^    "eslint-plugin-promise": "^2.0.0",$/;"	f
+eslint-plugin-react	package.json	/^    "eslint-plugin-react": "^6.10.0",$/;"	f
+eslint-plugin-standard	package.json	/^    "eslint-plugin-standard": "^2.0.0"$/;"	f
+exports	.eslintrc.json	/^        "exports": "always-multiline",$/;"	f
+extends	.eslintrc.json	/^  "extends": [$/;"	f
+from.LOGIN_FAIL	src/modules/user.js	/^  LOGIN_SUCCESS: 'login\/LOGIN_SUCCESS',$/;"	p
+from.LOGIN_REQUESTED	src/modules/user.js	/^export const consts = {$/;"	p
+from.LOGIN_SUCCESS	src/modules/user.js	/^  LOGIN_REQUESTED: 'login\/LOGIN_REQUESTED',$/;"	p
+from.enableReinitialize	src/containers/login/index.js	/^  form: 'creative-form',$/;"	p
+from.form	src/containers/login/index.js	/^const form = {$/;"	p
+from.validate	src/containers/login/index.js	/^  enableReinitialize: true,$/;"	p
+functions	.eslintrc.json	/^        "functions": "ignore"$/;"	f
+generator-star-spacing	.eslintrc.json	/^    "generator-star-spacing": 1,$/;"	f
+globals	.eslintrc.json	/^  "globals": {$/;"	f
+homepage	package.json	/^  "homepage": "https:\/\/cra-redux-router-thunk.herokuapp.com"$/;"	f
+immutable	package.json	/^    "immutable": "^3.8.2",$/;"	f
+imports	.eslintrc.json	/^        "imports": "always-multiline",$/;"	f
+jsx-quotes	.eslintrc.json	/^    "jsx-quotes": [$/;"	f
+max-len	.eslintrc.json	/^    "max-len": [$/;"	f
+name	package.json	/^  "name": "create-react-app-redux",$/;"	f
+no-confusing-arrow	.eslintrc.json	/^    "no-confusing-arrow": [$/;"	f
+no-unused-expressions	.eslintrc.json	/^    "no-unused-expressions": 0,$/;"	f
+node-sass-chokidar	package.json	/^    "node-sass-chokidar": "0.0.3",$/;"	f
+npm-run-all	package.json	/^    "npm-run-all": "^4.1.1",$/;"	f
+objects	.eslintrc.json	/^        "objects": "always-multiline",$/;"	f
+parser	.eslintrc.json	/^  "parser": "babel-eslint",$/;"	f
+plugins	.eslintrc.json	/^  "plugins": [$/;"	f
+private	package.json	/^  "private": true,$/;"	f
+prop-types	package.json	/^    "prop-types": "^15.6.0",$/;"	f
+react	package.json	/^    "react": "^16.0.0",$/;"	f
+react-dom	package.json	/^    "react-dom": "^16.0.0",$/;"	f
+react-redux	package.json	/^    "react-redux": "^5.0.6",$/;"	f
+react-router	package.json	/^    "react-router": "^4.2.0",$/;"	f
+react-router-dom	package.json	/^    "react-router-dom": "^4.2.2",$/;"	f
+react-router-redux	package.json	/^    "react-router-redux": "next",$/;"	f
+react/jsx-filename-extension	.eslintrc.json	/^    "react\/jsx-filename-extension": 0$/;"	f
+redux	package.json	/^    "redux": "^3.7.2",$/;"	f
+redux-form	package.json	/^    "redux-form": "^7.1.1",$/;"	f
+redux-thunk	package.json	/^    "redux-thunk": "^2.2.0",$/;"	f
+rules	.eslintrc.json	/^  "rules": {$/;"	f
+sanitize.css	package.json	/^    "sanitize.css": "^5.0.0"$/;"	f
+scripts	package.json	/^  "scripts": {$/;"	f
+semi	.eslintrc.json	/^    "semi": [$/;"	f
+start	package.json	/^    "start": "npm-run-all -p watch-css start-js",$/;"	f
+start-js	package.json	/^    "start-js": "react-scripts start",$/;"	f
+test	package.json	/^    "test": "react-scripts test --env=jsdom",$/;"	f
+version	package.json	/^  "version": "0.1.0",$/;"	f
+watch-css	package.json	/^    "watch-css": "npm run build-css && node-sass-chokidar src\/ -o src\/ --watch --recursive",$/;"	f
