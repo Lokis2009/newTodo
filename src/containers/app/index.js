@@ -1,13 +1,11 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
-import Layout from '../layout'
-import Login from '../login'
+import Todo from '../todo'
 
 
 const App = () => (
   <div>
-    <Route exact path='/' component={Layout} />
-    <Route exact path='/login' component={Login} />
+    <Route exact path='/' component={Todo} />
   </div>
 )
 

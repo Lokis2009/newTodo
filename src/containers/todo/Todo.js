@@ -1,12 +1,25 @@
-import React from 'react'
-import { Route } from 'react-router-dom'
-import Todo from '../todo'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 
-
-const App = () => (
+const Todo = (props) => (
   <div>
-    <Route exact path='/' component={Todo} />
+    <button onClick={()=>props.changeFilter(5)}/>
+    <input onChange={(e => props.changeFilter(e.target.value))} />
+    <ul>
+    {props.todo.filter(f => f.title.includes(props.filterString)).map((e, i)=>
+      <li key={i}>
+        <div>{e.title}</div>
+        <div>{e.description}</div>
+        <div>{e.created_at}</div>
+      </li>)}
+    </ul>
+    dasdfgdfhfdhdf
   </div>
 )
 
-export default App
+export default Todo
+
+
+
+// Todo.propTypes = propTypes
+// Todo.defaultProps = defaultProps
